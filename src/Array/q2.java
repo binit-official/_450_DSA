@@ -1,5 +1,5 @@
 package Array;
-
+//Find the maximum and minimum element in an array
 import java.util.Scanner;
 
 public class q2 {

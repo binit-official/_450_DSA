@@ -1,5 +1,5 @@
 package Array;
-
+//Find the "Kth" max and min element of an array
 import java.util.Scanner;
 
 public class q3 {
